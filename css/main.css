@@ -125,7 +125,7 @@ p, ul li, ol li {
 }
 
 .nav-links {
-    padding-top: 10px;
+    padding-top: 12px;
     display: flex;
     gap: 1em;
     color: white;
@@ -161,8 +161,8 @@ a {
 }
 
 .nav-links .nav-link:hover {
-    background-color: #2F678B;
-    color: #fff;
+    background-color: #fff;
+    color: #2F678B;
     border-radius: 0.5rem;
 }
 
