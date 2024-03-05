@@ -116,20 +116,19 @@ p, ul li, ol li {
 
 .navbar{
     text-align: center;
+    font-weight: bold;
 }
 
 
-.collapse{
+.collapse {
     margin: auto;
-    padding: 0.5rem 1.5rem;
-    background: #fff;
-    border-radius: 1rem;
 }
 
 .nav-links {
+    padding-top: 10px;
     display: flex;
-    gap: 2em;
-    color: #000000;
+    gap: 1em;
+    color: white;
 }
 
 .nav-link, .drop-down li {
