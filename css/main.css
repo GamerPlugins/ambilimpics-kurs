@@ -237,9 +237,11 @@ main{
 }
 
 .but{
-    border-radius: 10px;
+    border-radius: 20px;
     border: 2px solid black;
     color: black;
     background-color: #fff;
-    padding: 20px;
+    padding: 10px 50px;
+    font-size: 18px;
+    font-weight: bold;
 }
