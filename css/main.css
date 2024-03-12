@@ -224,3 +224,12 @@ main{
     display: flex;
     flex-direction: row;
 }
+
+.osn{
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.small{
+    font-size: 11px;
+}
