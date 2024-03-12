@@ -224,6 +224,7 @@ main{
     display: flex;
     flex-direction: row;
     max-width: 800px;
+    justify-content: center;
 }
 
 .osn{
