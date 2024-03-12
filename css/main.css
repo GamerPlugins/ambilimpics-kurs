@@ -171,6 +171,10 @@ a {
     border-radius: 0.5rem;
 }
 
+.nav-links a{
+    text-decoration: none;
+}
+
 .services:hover .drop-down {
     display: block;
 }
