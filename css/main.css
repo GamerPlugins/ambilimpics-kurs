@@ -219,3 +219,8 @@ main{
     text-align: center;
     min-height: calc(86.2vh - 65.5px);
 }
+
+.news{
+    display: flex;
+    flex-direction: row;
+}
