@@ -223,7 +223,7 @@ main{
 .news{
     display: flex;
     flex-direction: row;
-    max-width: 800px;
+
     justify-content: center;
 }
 
