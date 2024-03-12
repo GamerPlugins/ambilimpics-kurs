@@ -223,13 +223,14 @@ main{
 .news{
     display: flex;
     flex-direction: row;
+    max-width: 800px;
 }
 
 .osn{
-    font-size: 36px;
+    font-size: 52px;
     font-weight: bold;
 }
 
 .small{
-    font-size: 11px;
+    font-size: 16px;
 }
