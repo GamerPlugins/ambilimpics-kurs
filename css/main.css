@@ -171,8 +171,9 @@ a {
     border-radius: 0.5rem;
 }
 
-.nav-links a{
+.nav-links a, .nav-link:hover a{
     text-decoration: none;
+    color: currentColor;
 }
 
 .services:hover .drop-down {
