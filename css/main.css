@@ -29,7 +29,7 @@ body{
     padding-left: 25px;
     padding-right: 25px;
     border-radius: 5px;
-    background-color: #2F678B;
+    background-color: #447a9b;
     text-decoration: none;
 
     text-decoration: none;
@@ -61,11 +61,11 @@ body{
 
 footer{
     height: 40px;
-    background-color: #2F678B;
+    background-color: #447a9b;
 }
 
 .kilimanjaro_bottom_header_one {
-    background-color: #2F678B;
+    background-color: #447a9b;
 }
 .section_padding_50 {
     padding: 40px 0;
@@ -121,7 +121,7 @@ p, ul li, ol li {
 
 .navbar{
     text-align: center;
-    background-color: #2F678B;
+    background-color: #447a9b;
 }
 
 
@@ -167,7 +167,7 @@ a {
 
 .nav-links .nav-link:hover {
     background-color: #fff;
-    color: #2F678B;
+    color: #447a9b;
     border-radius: 0.5rem;
 }
 
@@ -198,12 +198,12 @@ a {
 }
 
 .drop-down li:hover {
-    background: #2F678B;
+    background: #447a9b;
     color: #fff;
     border-radius: 0.5rem;
 }
 .drop-down a:hover {
-    background: #2F678B;
+    background: #447a9b;
     color: #fff;
     border-radius: 0.5rem;
     text-decoration: none;
