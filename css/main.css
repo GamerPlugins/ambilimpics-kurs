@@ -244,3 +244,21 @@ main{
     padding: 10px 50px;
     font-weight: bold;
 }
+
+.zag{
+    font-size: 36px;
+    text-align: left;
+    width: 100%;
+    margin: 88px 0;
+    padding: 88px 0;
+    background-color: #f3f7ff;
+}
+
+.osn2{
+    margin: 0 0 1.2em;
+    color: #000;
+    font-family: "Jost", sans-serif;
+    font-size: 1.25rem;
+    font-weight: 400;
+    line-height: 1.5;
+}
