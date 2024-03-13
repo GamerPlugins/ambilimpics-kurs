@@ -246,12 +246,14 @@ main{
 }
 
 .zag{
-    font-size: 36px;
+    font-size: 29px;
     text-align: left;
     width: 100%;
     margin: 88px 0;
     padding: 88px 0;
     background-color: #f3f7ff;
+    padding-left: 30px;
+    padding-right: 30px;
 }
 
 .osn2{
