@@ -245,6 +245,15 @@ main{
     font-weight: bold;
 }
 
+.but:hover{
+    border-radius: 20px;
+    border: 2px solid black;
+    color: #fff;
+    background-color: black;
+    padding: 10px 50px;
+    font-weight: bold;
+}
+
 .zag{
     font-size: 29px;
     text-align: left;
